@@ -1,0 +1,16 @@
+.shape {
+  height: 0;
+  width: 0;
+  border-bottom: 30px solid black;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+
+.shape1 {
+  height: 0;
+  width: 0;
+  border-bottom: 20px solid gray;
+  border-top: 20px solid white;
+  border-left: 20px solid lightgray;
+  border-right: 20px solid lightgray;
+}
